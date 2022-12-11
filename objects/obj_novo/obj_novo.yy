@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_barrier",
+    "path": "sprites/spr_barrier/spr_barrier.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
